@@ -12,7 +12,7 @@
 
 ---
 
-## 📅 Day 2 (01/08/2026)
+## 📅 Day 2 (01/08/2026 and 02/08/2026)
 
 **📚 Technique:** Prefix Sum
 
@@ -22,7 +22,7 @@
 | 2 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | ✅ |
 | 3 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | ⏳ |
 | 4 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | ✅ |
-| 5 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ⏳ |
+| 5 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ✅ |
 
 **🎯 Goal:** Master the Prefix Sum technique and understand how cumulative sums optimize array problems.
 
