@@ -24,7 +24,41 @@
 | 4 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | ✅ |
 | 5 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ✅ |
 
-**🎯 Goal:** Master the Prefix Sum technique and understand how cumulative sums optimize array problems.
+# 📚 Prefix Sum Practice Roadmap
+
+After completing the core Prefix Sum problems, solve these additional problems to strengthen your understanding.
+
+---
+
+## 🟢 Easy
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 1 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | ✅ |
+| 2 | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Easy | ✅ |
+| 3 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | ✅ |
+
+---
+
+## 🟡 Medium
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 4 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | ⏳ |
+| 5 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | ⏳ |
+| 6 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | ⏳ |
+| 7 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | ⏳ |
+| 8 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | ⏳ |
+| 9 | [325. Maximum Size Subarray Sum Equals K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | Medium | ⏳ |
+
+---
+
+## 🔴 Hard
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 10 | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | ⏳ |
+| 11 | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | ⏳ |
 
 ---
 
