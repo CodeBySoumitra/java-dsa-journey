@@ -28,8 +28,6 @@
 
 After completing the core Prefix Sum problems, solve these additional problems to strengthen your understanding.
 
----
-
 ## 🟢 Easy
 
 | # | Problem | Difficulty | Status |
@@ -64,11 +62,36 @@ After completing the core Prefix Sum problems, solve these additional problems t
 
 ### 🚀 Day 3
 
+# 📚 Two Pointers Roadmap
+
+Master the Two Pointers technique by solving the following problems in order.
+
+
+## 🟢 Level 1: Slow & Fast Pointer
+
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 7 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | ⏳ |
-| 8 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ⏳ |
-| 9 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | ⏳ |
+| 1 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ⏳ |
+| 2 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | ⏳ |
+| 3 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | ⏳ |
+| 4 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | ⏳ |
+
+---
+
+## 🟡 Level 2: Left & Right Pointer
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 5 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | ⏳ |
+| 6 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⏳ |
+| 7 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | ⏳ |
+| 8 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | ⏳ |
+
+---
+
+## 📈 Progress
+
+**Solved:** **0 / 8 Problems**
 
 ---
 
