@@ -1,8 +1,8 @@
-## 📅 Array Challenge (30 Problems)
+## 📅 Array Challenge
 
 ### ✅ Day 1 (31/07/2026)
 
-**Topic:** Array Basics
+**📚 Topic:** Array Basics
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
@@ -12,86 +12,65 @@
 
 ---
 
-## 📅 Day 2 (01/08/2026 and 02/08/2026)
+## 📅 Day 2 (01/08/2026 – 02/08/2026)
 
 **📚 Technique:** Prefix Sum
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 1 | [1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | ✅ |
-| 2 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | ✅ |
-| 3 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | ⏳ |
-| 4 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | ✅ |
-| 5 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ✅ |
+| 4 | [1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | ✅ |
+| 5 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | ✅ |
+| 6 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | ⏳ |
+| 7 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | ✅ |
+| 8 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ✅ |
 
-# 📚 Prefix Sum Practice Roadmap
-
-After completing the core Prefix Sum problems, solve these additional problems to strengthen your understanding.
-
-## 🟢 Easy
+### 🌟 Extra Prefix Sum Practice
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 1 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | ✅ |
-| 2 | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Easy | ✅ |
-| 3 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | ✅ |
+| 9 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | ✅ |
+| 10 | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Easy | ✅ |
+| 11 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | ✅ |
+| 12 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | ⏳ |
+| 13 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | ⏳ |
+| 14 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | ⏳ |
+| 15 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | ⏳ |
+| 16 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | ⏳ |
+| 17 | [325. Maximum Size Subarray Sum Equals K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | Medium | ⏳ |
+| 18 | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | ⏳ |
+| 19 | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | ⏳ |
 
 ---
 
-## 🟡 Medium
+## 📅 Day 3 (03/08/2026)
+
+**📚 Technique:** Two Pointers
+
+### 🟢 Slow & Fast Pointer
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 4 | [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | Medium | ⏳ |
-| 5 | [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | Medium | ⏳ |
-| 6 | [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | ⏳ |
-| 7 | [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | Medium | ⏳ |
-| 8 | [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | Medium | ⏳ |
-| 9 | [325. Maximum Size Subarray Sum Equals K](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | Medium | ⏳ |
+| 20 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ✅ |
+| 21 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | ✅ |
+| 22 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | ✅ |
+| 23 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | ✅ |
 
----
-
-## 🔴 Hard
+### 🟡 Left & Right Pointer
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 10 | [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | Hard | ⏳ |
-| 11 | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | Hard | ⏳ |
+| 24 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | ✅ |
+| 25 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⏳ |
+| 26 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | ✅ |
+| 27 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | ⏳ |
 
 ---
 
-### 🚀 Day 3
+### 📈 Progress
 
-# 📚 Two Pointers Roadmap
-
-Master the Two Pointers technique by solving the following problems in order.
-
-
-## 🟢 Level 1: Slow & Fast Pointer
-
-| # | Problem | Difficulty | Status |
-|:-:|---------|:----------:|:------:|
-| 1 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ✅ |
-| 2 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | ✅ |
-| 3 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | ✅ |
-| 4 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | ✅ |
-
----
-
-## 🟡 Level 2: Left & Right Pointer
-
-| # | Problem | Difficulty | Status |
-|:-:|---------|:----------:|:------:|
-| 5 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | ✅ |
-| 6 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⏳ |
-| 7 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | ✅ |
-| 8 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | ⏳ |
-
----
-
-## 📈 Progress
-
-**Solved:** **0 / 8 Problems**
+- **Completed:** 18 / 27
+- **In Progress:** 3 / 27
+- **Remaining:** 6 / 27
 
 ---
 
