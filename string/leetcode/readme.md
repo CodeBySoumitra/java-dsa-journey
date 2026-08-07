@@ -10,10 +10,10 @@ Learn Strings by mastering one technique at a time.
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 1 | Print each character of a string | Basic | ⏳ |
-| 2 | Count total characters | Basic | ⏳ |
-| 3 | Count vowels and consonants | Basic | ⏳ |
-| 4 | Count uppercase and lowercase letters | Basic | ⏳ |
+| 1 | [Print each character of a string](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/PrintCharacter.java) | Basic | Y |
+| 2 | [Count total characters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/Totalcharacter.java) | Basic | Y |
+| 3 | [Count vowels and consonants](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountVowelConsonent.java) | Basic | Y |
+| 4 | [Count uppercase and lowercase letters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountUpperLowerChar.java) | Basic | Y |
 | 5 | [Count digits and special characters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountDigitSpecialchar.java) | Basic | Y |
 
 ---
@@ -24,11 +24,11 @@ Learn Strings by mastering one technique at a time.
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 6 | Reverse a String (without StringBuilder) | Basic | ⏳ |
-| 7 | Check Palindrome | Basic | ⏳ |
-| 8 | Toggle Case of each Character | Basic | ⏳ |
-| 9 | Convert Lowercase → Uppercase (ASCII) | Basic | ⏳ |
-| 10 | Convert Uppercase → Lowercase (ASCII) | Basic | ⏳ |
+| 6 | [Reverse a String (without StringBuilder)](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ReverseString.java) | Basic | Y |
+| 7 | [Check Palindrome](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/Palindrome.java) | Basic | Y |
+| 8 | [Toggle Case of each Character](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ToggleCase.java) | Basic | Y |
+| 9 | [Convert Lowercase → Uppercase (ASCII)](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ConvertLowerToUpperViceVersa.java) | Basic | Y |
+| 10 | [Convert Uppercase → Lowercase (ASCII)](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ConvertLowerToUpperViceVersa.java) | Basic | Y |
 
 ---
 
@@ -38,11 +38,11 @@ Learn Strings by mastering one technique at a time.
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 11 | Count Words in a Sentence | Basic | ⏳ |
-| 12 | Reverse Every Word | Easy | ⏳ |
-| 13 | Reverse Complete Sentence | Easy | ⏳ |
-| 14 | Find Longest Word | Easy | ⏳ |
-| 15 | Find Shortest Word | Easy | ⏳ |
+| 11 | [Count Words in a Sentence](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountWord.java) | Basic | Y |
+| 12 | [Reverse Every Word](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ReverseEveryWords.java) | Easy | Y |
+| 13 | [Reverse Complete Sentence](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ReverseSentence.java) | Easy | Y |
+| 14 | [Find Longest Word](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/FindLongestAndShortestWord.java) | Easy | Y |
+| 15 | [Find Shortest Word](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/FindLongestAndShortestWord.java) | Easy | Y |
 
 ---
 
@@ -52,9 +52,9 @@ Learn Strings by mastering one technique at a time.
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 16 | Count Frequency of a Character | Easy | ⏳ |
-| 17 | Find First Non-Repeating Character | Medium | ⏳ |
-| 18 | Remove Duplicate Characters | Medium | ⏳ |
+| 16 | [Count Frequency of a Character](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountFrequencyOfChar.java) | Easy | Y |
+| 17 | [Find First Non-Repeating Character]() | Medium | Y |
+| 18 | [Remove Duplicate Characters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/RemoveDuplicateChar.java) | Medium | Y |
 
 ---
 
