@@ -14,7 +14,7 @@ Learn Strings by mastering one technique at a time.
 | 2 | Count total characters | Basic | ⏳ |
 | 3 | Count vowels and consonants | Basic | ⏳ |
 | 4 | Count uppercase and lowercase letters | Basic | ⏳ |
-| 5 | Count digits and special characters | Basic | ⏳ |
+| 5 | [Count digits and special characters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountDigitSpecialchar.java) | Basic | Y |
 
 ---
 
