@@ -78,7 +78,7 @@ Learn Strings by mastering one technique at a time.
 
 | # | Problem | Difficulty | Status |
 |:-:|---------|:----------:|:------:|
-| 24 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | ⏳ |
+| 24 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | ✅ |
 | 25 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | ⏳ |
 
 ---
