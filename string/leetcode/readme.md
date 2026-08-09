@@ -68,7 +68,7 @@ Learn Strings by mastering one technique at a time.
 | 20 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | ✅  |
 | 21 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ✅  |
 | 22 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | ✅ |
-| 23 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | ⏳ |
+| 23 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | ✅ |
 
 ---
 
