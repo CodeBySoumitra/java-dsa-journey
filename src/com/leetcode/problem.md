@@ -1,0 +1,254 @@
+## 📅 Array Challenge
+
+### ✅ Day 1 (31/07/2026)
+
+**📚 Topic:** Array Basics
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 1 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | ✅ |
+| 2 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | ✅ |
+| 3 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | ✅ |
+
+---
+
+## 📅 Day 2 (01/08/2026 – 02/08/2026)
+
+**📚 Technique:** Prefix Sum
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 4 | [1480. Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | ✅ |
+| 5 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | ✅ |
+| 6 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | ⏳ |
+| 7 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | ✅ |
+| 8 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ✅ |
+
+### 🌟 Extra Prefix Sum Practice
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 9 | [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Easy | ✅ |
+| 10 | [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Easy | ✅ |
+| 11 | [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | Easy | ✅ |
+
+---
+
+## 📅 Day 3 (03/08/2026)
+
+**📚 Technique:** Two Pointers
+
+### 🟢 Slow & Fast Pointer
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 12 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | ✅ |
+| 13 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | ✅ |
+| 14 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | ✅ |
+| 15 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | ✅ |
+
+### 🟡 Left & Right Pointer
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 16 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | ✅ |
+| 17 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⏳ |
+| 18 | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | ✅ |
+| 19 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | ⏳ |
+
+---
+
+### 📊 Progress
+
+- ✅ Completed: **15 / 19**
+- ⏳ Remaining: **4 / 19**
+### 🚀 Day 4
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 10 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | ⏳ |
+| 11 | [27. Remove Element](https://leetcode.com/problems/remove-element/) | Easy | ⏳ |
+| 12 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | ⏳ |
+
+---
+
+### 🚀 Day 5
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 13 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ⏳ |
+| 14 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | ⏳ |
+| 15 | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | ⏳ |
+
+---
+
+### 🚀 Day 6
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 16 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | ⏳ |
+| 17 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | ⏳ |
+| 18 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | Easy | ⏳ |
+
+---
+
+### 🚀 Day 7
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 19 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ⏳ |
+| 20 | [66. Plus One](https://leetcode.com/problems/plus-one/) | Easy | ⏳ |
+| 21 | [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | ⏳ |
+
+---
+
+### 🚀 Day 8
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 22 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | ⏳ |
+| 23 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | ⏳ |
+| 24 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | ⏳ |
+
+---
+
+### 🚀 Day 9
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 25 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ⏳ |
+| 26 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | ⏳ |
+| 27 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | ⏳ |
+
+---
+
+### 🚀 Day 10
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 28 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | ⏳ |
+| 29 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | ⏳ |
+| 30 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | ⏳ |
+
+---
+
+# 📚 String Roadmap (Technique Wise)
+
+Learn Strings by mastering one technique at a time.
+
+---
+
+## 📅 Day 1 – String Basics
+
+**📚 Technique:** String Fundamentals
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 1 | [Print each character of a string](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/PrintCharacter.java) | Basic | Y |
+| 2 | [Count total characters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/Totalcharacter.java) | Basic | Y |
+| 3 | [Count vowels and consonants](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountVowelConsonent.java) | Basic | Y |
+| 4 | [Count uppercase and lowercase letters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountUpperLowerChar.java) | Basic | Y |
+| 5 | [Count digits and special characters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountDigitSpecialchar.java) | Basic | Y |
+
+---
+
+## 📅 Day 2 – String Traversal
+
+**📚 Technique:** Traversal & Reverse
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 6 | [Reverse a String (without StringBuilder)](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ReverseString.java) | Basic | Y |
+| 7 | [Check Palindrome](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/Palindrome.java) | Basic | Y |
+| 8 | [Toggle Case of each Character](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ToggleCase.java) | Basic | Y |
+| 9 | [Convert Lowercase → Uppercase (ASCII)](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ConvertLowerToUpperViceVersa.java) | Basic | Y |
+| 10 | [Convert Uppercase → Lowercase (ASCII)](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ConvertLowerToUpperViceVersa.java) | Basic | Y |
+
+---
+
+## 📅 Day 3 – Word Based Problems
+
+**📚 Technique:** String Traversal
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 11 | [Count Words in a Sentence](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountWord.java) | Basic | Y |
+| 12 | [Reverse Every Word](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ReverseEveryWords.java) | Easy | Y |
+| 13 | [Reverse Complete Sentence](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/ReverseSentence.java) | Easy | Y |
+| 14 | [Find Longest Word](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/FindLongestAndShortestWord.java) | Easy | Y |
+| 15 | [Find Shortest Word](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/FindLongestAndShortestWord.java) | Easy | Y |
+
+---
+
+## 📅 Day 4 – Character Frequency (Without HashMap)
+
+**📚 Technique:** Nested Loops
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 16 | [Count Frequency of a Character](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/CountFrequencyOfChar.java) | Easy | Y |
+| 17 | [Find First Non-Repeating Character]() | Medium | Y |
+| 18 | [Remove Duplicate Characters](https://github.com/CodeBySoumitra/java-dsa-journey/blob/main/string/Assignment/RemoveDuplicateChar.java) | Medium | Y |
+
+---
+
+## 📅 Day 5 – LeetCode Easy
+
+**📚 Technique:** String Basics + Two Pointers
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 19 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | ✅  |
+| 20 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | ✅  |
+| 21 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ✅  |
+| 22 | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | ✅ |
+| 23 | [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | ✅ |
+
+---
+
+## 📅 Day 6 – String Comparison
+
+**📚 Technique:** Character Comparison
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 24 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | ✅ |
+| 25 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | ✅ |
+
+---
+
+## 📅 Day 7 – HashMap Based (After Learning HashMap)
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 26 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | 🔒 |
+| 27 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | 🔒 |
+| 28 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | 🔒 |
+| 29 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 🔒 |
+
+---
+
+## 📅 Day 8 – Sliding Window (After Learning Sliding Window + HashMap)
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 30 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 🔒 |
+| 31 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | 🔒 |
+| 32 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | 🔒 |
+
+---
+
+## 📅 Day 9 – Advanced Pattern Matching
+
+| # | Problem | Difficulty | Status |
+|:-:|---------|:----------:|:------:|
+| 33 | KMP Algorithm (Implementation) | Hard | 🔒 |
+| 34 | Rabin-Karp Algorithm | Hard | 🔒 |
+
+---
+
+## 📊 Progress
+
+- ✅ Completed: **0 / 34**
+- ⏳ In Progress: **0 / 34**
+- 🔒 Locked (Learn technique first): **9**
