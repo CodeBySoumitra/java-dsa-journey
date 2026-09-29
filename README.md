@@ -23,8 +23,8 @@ Pattern-wise DSA roadmap with LeetCode and YouTube resources.
 
 | Status | Problem | LeetCode | NeetCode | YouTube |
 |---------|---------|----------|----------|----------|
-| ⬜ | Contains Duplicate | [LC](https://leetcode.com/problems/contains-duplicate/) | [NC](https://neetcode.io/problems/duplicate-integer) | [🎥](https://youtu.be/3OamzN90kPg) |
-| ⬜ | Valid Anagram | [LC](https://leetcode.com/problems/valid-anagram/) | [NC](https://neetcode.io/problems/is-anagram) | [🎥](https://youtu.be/9UtInBqnCgA) |
+| ✅ | Contains Duplicate | [LC](https://leetcode.com/problems/contains-duplicate/) | [NC](https://neetcode.io/problems/duplicate-integer) | [🎥](https://youtu.be/3OamzN90kPg) |
+| ✅ | Valid Anagram | [LC](https://leetcode.com/problems/valid-anagram/) | [NC](https://neetcode.io/problems/is-anagram) | [🎥](https://youtu.be/9UtInBqnCgA) |
 | ⬜ | Two Sum | [LC](https://leetcode.com/problems/two-sum/) | [NC](https://neetcode.io/problems/two-integer-sum) | [🎥](https://youtu.be/KLlXCFG5TnA) |
 | ⬜ | Group Anagrams | [LC](https://leetcode.com/problems/group-anagrams/) | [NC](https://neetcode.io/problems/anagram-groups) | [🎥](https://youtu.be/vzdNOK2oB2E) |
 | ⬜ | Top K Frequent Elements | [LC](https://leetcode.com/problems/top-k-frequent-elements/) | [NC](https://neetcode.io/problems/top-k-elements-in-list) | [🎥](https://youtu.be/YPTqKIgVk-k) |
